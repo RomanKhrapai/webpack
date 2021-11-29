@@ -1,1 +1,1 @@
-console.log({skills:"webpack"});
+(()=>{"use strict";console.log({skills:"webpack"})})();
